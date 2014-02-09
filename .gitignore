@@ -1,2 +1,4 @@
 .env.php
 .idea/
+.php-version
+mysql-connector-*

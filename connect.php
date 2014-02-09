@@ -1,7 +1,7 @@
 <?php
 
-include ".env.php";
-include "functions.php";
+require_once ".env.php";
+require_once "functions.php";
 
 try
 {
